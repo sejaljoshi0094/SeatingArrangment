@@ -19,7 +19,7 @@ namespace WindowsFormsApp4
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hi changes noticed", "Caption");//ok thank you
+            MessageBox.Show("Hi changes noticed", "Caption");
         }
     }
 }
